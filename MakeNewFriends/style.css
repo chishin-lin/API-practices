@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  margin: 20px 30px 0;
+}
+div.card {
+  margin: 30px;
+  box-sizing: border-box;
+}
+
+h5 {
+  margin: 5px;
+}
+div img {
+  padding: 5px;
+  border-radius: 30px;
+}
