@@ -3,4 +3,9 @@
   border-radius: 10px;
   background: linear-gradient(180deg, #c7c7c7, #6c6c6c);
   padding: 10px;
+  text-align: center;
+}
+h2 {
+  margin: 10px 0 20px;
+  color: white;
 }
