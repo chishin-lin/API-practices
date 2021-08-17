@@ -54,4 +54,12 @@ https://randomuser.me/api/`?gender=female`
 
 _原本的資料不會消失，網頁上會再追加資料_
 
-`+=`
+## `+=`
+
+### Adele Song List
+
+_為 Adele 的「25」這張專輯，做一個歌詞網站。_
+
+當你點擊左欄的歌曲名稱時，就會發送請求給 lyric-api-403c0.firebaseio.com，
+
+並且將回傳的歌曲顯示在右欄
